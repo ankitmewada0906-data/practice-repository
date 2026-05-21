@@ -1,4 +1,4 @@
 # practice-repository
 This is my first git repository
 <br>
-Author - Ankit Mewada
+Author - Ankit Mewada Rajput
